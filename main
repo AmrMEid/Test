@@ -1,5 +1,7 @@
-// Edited by Mr. Tarek
-#include <stdio>
+// Edited by  Tarek
+//Embedded
+
+
 
 int add(int a,int b)
 {
